@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/1009-soroban-client-config-failures",
+    "test/attestations-router-failure-paths"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/1009-soroban-client-config-failures": "main",
+    "test/attestations-router-failure-paths": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/1009-soroban-client-config-failures",
+    "test/attestations-router-failure-paths"
+  ]
+}
